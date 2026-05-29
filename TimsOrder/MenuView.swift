@@ -149,6 +149,7 @@ struct MenuItemCard: View {
                 .frame(maxWidth: .infinity)
                 .frame(height: 180)
                 .clipped()
+                .onAppear { print("Loading image: \(item.imageName)") }
             
             VStack(alignment: .leading, spacing: 8) {
                 // Name and price

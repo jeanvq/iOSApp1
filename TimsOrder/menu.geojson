@@ -36,7 +36,7 @@
     "name": "Iced Caramel Macchiato",
     "description": "Espresso poured over cold milk and ice, finished with a drizzle of caramel sauce.",
     "price": 5.50,
-    "imageName": "coldbrew",
+    "imageName": "macchiato",
     "category": "Cold Drinks"
   }
 ]

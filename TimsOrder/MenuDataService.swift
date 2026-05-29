@@ -50,7 +50,19 @@ struct MenuDataService {
                      description: "Specially selected beans cold-brewed for 18 hours. Smooth, naturally sweet, with notes of vanilla and nuts.",
                      price: 5.75,
                      imageName: "coldbrew",
-                     category: "Cold Drinks")
+                     category: "Cold Drinks"),
+            
+            MenuItem(name: "Iced Caramel Macchiato",
+                     description: "Espresso poured over cold milk and ice, finished with a drizzle of caramel sauce.",
+                     price: 5.50,
+                     imageName: "macchiato",
+                     category: "Cold Drinks"),
+
+            MenuItem(name: "French Vanilla Latte",
+                     description: "Smooth espresso with steamed milk and a touch of sweet vanilla. A crowd favourite.",
+                     price: 5.00,
+                     imageName: "brew",
+                     category: "Hot Drinks")
         ]
     }
 }
