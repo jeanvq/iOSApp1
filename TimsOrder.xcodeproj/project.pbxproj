@@ -30,11 +30,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0F6E92C02FC5290F00B7F894 /* TimsOrder */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TimsOrder;
-			sourceTree = "<group>";
-		};
 		0F6E92CE2FC5291000B7F894 /* TimsOrderTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = TimsOrderTests;
@@ -43,6 +38,11 @@
 		0F6E92D82FC5291000B7F894 /* TimsOrderUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = TimsOrderUITests;
+			sourceTree = "<group>";
+		};
+		0FFABAC52FC92CB000D7B026 /* TimsOrder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TimsOrder;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,7 +75,7 @@
 		0F6E92B52FC5290F00B7F894 = {
 			isa = PBXGroup;
 			children = (
-				0F6E92C02FC5290F00B7F894 /* TimsOrder */,
+				0FFABAC52FC92CB000D7B026 /* TimsOrder */,
 				0F6E92CE2FC5291000B7F894 /* TimsOrderTests */,
 				0F6E92D82FC5291000B7F894 /* TimsOrderUITests */,
 				0F6E92BF2FC5290F00B7F894 /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0F6E92C02FC5290F00B7F894 /* TimsOrder */,
+				0FFABAC52FC92CB000D7B026 /* TimsOrder */,
 			);
 			name = TimsOrder;
 			packageProductDependencies = (
