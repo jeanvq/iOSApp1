@@ -1,8 +1,7 @@
-# TimsOrder ☕
+# Origin & Ember Coffee Bar ☕
 
-A Tim Hortons team ordering app built with SwiftUI for iOS.
+An iOS app for Origin & Ember Coffee Bar — a fictional artisan coffee shop based in Waterloo, ON. Built with SwiftUI for iOS as part of a mobile development course at triOS College.
 
-Instead of writing down coffee orders on paper, team members can use this app to record each person's order and save it for future use.
 
 ## Features
 
