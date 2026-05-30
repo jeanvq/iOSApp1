@@ -12,9 +12,9 @@ Instead of writing down coffee orders on paper, team members can use this app to
 
 ## Screenshots
 
-| My Order | Order Saved | Team Orders | Timer |
-|---|---|---|---|
-| ![My Order](1.png) | ![Order Saved](2.png) | ![Team Orders](3.png) | ![Timer](4.png) |
+| My Order | Order Saved | Team Orders | Timer | Extra |
+|---|---|---|---|---|
+| ![My Order](image.png) | ![Order Saved](image2.png) | ![Team Orders](image3.png) | ![Timer](image4.png) | ![Extra](image5.png) |
 
 ## Tech Stack
 
